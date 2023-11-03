@@ -20,4 +20,5 @@ describe('checkProfanity', () => {
   test('returns the profane word if text contains profanity', () => {
     expect(checkProfanity('Hello, seu cabaço!')).toBe('cabaço');
   });
+
 });
