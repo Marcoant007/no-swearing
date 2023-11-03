@@ -1,6 +1,6 @@
 {
-  "name": "no-swearing-ptbr",
-  "version": "1.0.0",
+  "name": "mrx-no-swearing-ptbr",
+  "version": "1.0.1",
   "description": "Project carried out to disallow offensive words in texts specifically in Portuguese (BR)",
   "main": "dist/index.js",
   "scripts": {
@@ -25,8 +25,12 @@
   "author": "Marco Antônio",
   "license": "ISC",
   "files": [
-    "dist"
+    "dist/",
+    "src/",
+    "index.js",
+    "README.md"
   ],
+
   "engines": {
     "node": ">=14.0.0"
   },
