@@ -1,0 +1,40 @@
+{
+  "name": "@mrx/no-swearing",
+  "version": "1.0.0",
+  "description": "Project carried out to disallow offensive words in texts specifically in Portuguese (BR)",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "jest",
+    "login": "npm login",
+    "whoami": "npm whoami",
+    "publish": "npm publish --access public",
+    "test:debug": "node --inspect node --inspect-brk ./node_modules/.bin/jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-github-username/your-repo.git"
+  },
+  "keywords": [
+    "profanity",
+    "filter",
+    "text",
+    "portuguese",
+    "brazilian"
+  ],
+  "author": "Marco Antônio",
+  "license": "ISC",
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.7",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
