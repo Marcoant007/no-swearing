@@ -1,6 +1,6 @@
 {
   "name": "mrx-no-swearing-ptbr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Project carried out to disallow offensive words in texts specifically in Portuguese (BR)",
   "main": "dist/checkProfanity.js",
   "types": "dist/checkProfanity.d.ts",
