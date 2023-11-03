@@ -1,4 +1,4 @@
-import checkProfanity from "../src";
+import checkProfanity from "../checkProfanity";
 
 describe('checkProfanity', () => {
   test('returns null for text without profanity', () => {

@@ -1,13 +1,13 @@
 {
   "name": "mrx-no-swearing-ptbr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Project carried out to disallow offensive words in texts specifically in Portuguese (BR)",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/checkProfanity.js",
+  "types": "dist/checkProfanity.d.ts",
   "author": "Marco Antônio",
   "license": "ISC",
   "scripts": {
-    "start": "ts-node index.ts",
+    "start": "ts-node checkProfanity.ts",
     "test": "jest",
     "build": "tsc",
     "publish": "npm publish --access public",
@@ -27,7 +27,7 @@
   "files": [
     "dist/",
     "tests/",
-    "index.js",
+    "checkProfanity.js",
     "README.md"
   ],
 

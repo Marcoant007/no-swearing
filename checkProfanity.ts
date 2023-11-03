@@ -1,4 +1,4 @@
-import { BAD_WORDS } from "../util/bad-words";
+import { BAD_WORDS } from "./util/bad-words";
 const BAD_WORDS_SET = new Set(BAD_WORDS.map(word => word.toLowerCase().replace(/[^a-zãàáäâẽèéëêìíïîõòóöôùúüûñç]/gi, '')));
 /**
  * Verifica se o texto contém algum palavrão.
