@@ -27,6 +27,8 @@
   "files": [
     "dist/",
     "src/",
+    "util/",
+    "tests",
     "index.js",
     "README.md"
   ],
