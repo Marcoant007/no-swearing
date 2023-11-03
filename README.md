@@ -1,26 +1,26 @@
-# Casos de teste
+# No-Swearing
 
-### Carts (Mesas)
-#### Deve ser possível:
-    [X] Verificar função de arredondamento
-    [X] Adicionar itens ao cart
-    [X] Remover itens do cart
-    [X] Verificando total do cart
-    [ ] Adicionar desconto no total do cart 
-    [ ] Adicionar acréscimo no total do cart
-    [ ] Adicionar forma de pagamento no cart
+No-Swearing é um pacote npm que ajuda a identificar palavras ofensivas em textos, especificamente em Português (BR). Ele foi criado para ajudar a manter a civilidade e o respeito nas interações online.
 
+## Instalação
 
-### Cart Item (Produtos da mesa)
-#### Deve ser possível:
-    [ ] Adicionar produtos 
-    [ ] Adicionar desconto aos produtos 
-    [ ] Adicionar acréscimo aos produtos
-    [ ] Remover item
-    [ ] Adicionar item
-    [ ] Adicionar calculo de pis
-    [ ] Adicionar calculo de cofins
-    [ ] Adicionar calculo de ipi
-    [ ] Adicionar calculo de icms
+Para instalar o No-Swearing, você pode usar o npm:
+```
+
+npm install @mrx/no-swearing
+
+```
+
+## Uso
+
+Aqui está um exemplo de como usar o No-Swearing em seu projeto:
 
 
+
+## Contribuição
+
+Contribuições para o No-Swearing são bem-vindas! Por favor, leia as [diretrizes de contribuição](CONTRIBUTING.md) antes de enviar um pull request.
+
+## Licença
+
+No-Swearing é licenciado sob a licença ISC. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
