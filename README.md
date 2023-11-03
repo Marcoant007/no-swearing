@@ -7,7 +7,7 @@ No-Swearing é um pacote npm que ajuda a identificar palavras ofensivas em texto
 Para instalar o No-Swearing, você pode usar o npm:
 ```
 
-npm install npm i mrx-no-swearing-ptbr
+npm install npm i no-swearing-br
 
 ```
 
