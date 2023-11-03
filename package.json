@@ -1,5 +1,5 @@
 {
-  "name": "mrx/no-swearing",
+  "name": "no-swearing",
   "version": "1.0.0",
   "description": "Project carried out to disallow offensive words in texts specifically in Portuguese (BR)",
   "main": "dist/index.js",
