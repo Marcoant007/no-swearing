@@ -16,7 +16,7 @@ npm install npm i no-swearing-br
 Aqui está um exemplo de como usar o No-Swearing em seu projeto:
 
 ```
-import checkProfanity from "mrx-no-swearing-ptbr";
+import checkProfanity from "no-swearing-ptbr";
 
 const result = checkProfanity(text);
 ```
